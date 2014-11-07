@@ -8,7 +8,7 @@ public class Jenkins
 		@Test
 		public void testJenkins()
 		{
-			System.out.println("Branch b1 Jenkins");
+			System.out.println("************8Branch b1 Jenkins************");
 		}
 		
 

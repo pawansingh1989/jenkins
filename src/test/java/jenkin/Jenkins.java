@@ -7,7 +7,7 @@ public class Jenkins
 {
 		public void testJenkins()
 		{
-			System.out.println("Hello Jenkins");
+			System.out.println("Branch b1 Jenkins");
 		}
 		
 
